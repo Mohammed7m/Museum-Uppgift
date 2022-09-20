@@ -1,0 +1,15 @@
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\bin\Debug\net6.0\Uppgift.exe
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\bin\Debug\net6.0\Uppgift.deps.json
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\bin\Debug\net6.0\Uppgift.runtimeconfig.json
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\bin\Debug\net6.0\Uppgift.dll
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\bin\Debug\net6.0\Uppgift.pdb
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.csproj.AssemblyReference.cache
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.AssemblyInfoInputs.cache
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.AssemblyInfo.cs
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.dll
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\refint\Uppgift.dll
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.pdb
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\Uppgift.genruntimeconfig.cache
+C:\Users\mm657\OneDrive\Skrivbord\SUV22\Uppgift Musset 1978\obj\Debug\net6.0\ref\Uppgift.dll
