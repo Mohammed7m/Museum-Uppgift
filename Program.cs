@@ -49,7 +49,6 @@
     }
     else if (input == 2)
     {
-        Console.WriteLine("Programmet avslutas");
         Environment.Exit(0);
     }
 
