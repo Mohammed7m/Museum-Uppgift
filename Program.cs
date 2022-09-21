@@ -16,7 +16,7 @@
         {
             Console.Clear();
 
-            Console.WriteLine("Ni står nu i entréhallen, var önskar du gå?");
+            Console.WriteLine("Ni står nu i entréhallen, var önskar ni gå?");
             Console.WriteLine("[1]. Utställningshall 1");
             Console.WriteLine("[2]. Utställningshall 2");
             Console.WriteLine("[3]. Café/Presentaffär");
